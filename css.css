@@ -1,0 +1,74 @@
+nav{
+    background-color: #0f171e;
+    height: 80px;
+    font-size: 15px;
+    line-height: 20px;
+ 
+    
+}
+
+#navbarNavDropdown{
+    display: flex;
+    justify-content: flex-end;
+}
+.logo{
+    width: 100px;
+    height:35px;
+
+    background-repeat: no-repeat;
+background-color: #0f171e;
+    
+   
+  
+}
+#hero{
+    height:100vh;
+    background-image: url(first.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.item{
+    padding-left: 55%;
+}
+.bottom p{
+    font-size: 12px;
+}
+
+.hero-button{
+
+    border-radius: 2px;
+    font-size: 17px;
+    width: 50%;
+    min-width: 280px;
+    text-align: center;
+    font-weight: 700;
+    padding: 16px 18px 16px;
+}
+
+
+
+#hero2{
+    background-image: url(second.jpg) ;
+    height:70vh !important;
+   
+    background-position: center center center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+}
+.h2-title{
+    font-size: 30px;
+    font-weight: bold;
+    color:black !important;
+    opacity: 1;
+    
+}
+#hero3{
+    background-image: url(third.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.footer-link{
+    font-size:12px;
+    padding:-20px;
+}
